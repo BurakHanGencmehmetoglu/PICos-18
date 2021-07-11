@@ -1,0 +1,2 @@
+Program is written for PIC18F4620 microcontroller using C. MPLAB C18 compiler were used.
+It essentially collects coin positions from robot and send commands to the robot to collect them via asynchronous serial communication.
